@@ -1,0 +1,113 @@
+html{
+	font-family: arial;
+
+
+}
+.left{
+	margin-left: 260px;
+}
+body{
+	
+	margin: 0;
+	background-color: rgb(62,62,64);
+}
+#works{
+	color: white;
+	background-color: green;
+	height: 100px;
+	width: 200px;
+	display:inline-block;
+	vertical-align: top;
+}
+#box{
+	margin-left: 200px;
+	border: solid;
+	width: 400px;
+	display: inline-block;
+	border-color: rgb(84,189,255);
+	color: rgb(84,189,255);
+	padding: 20px;
+}
+#box1{
+	border: solid;
+	width: 380px;
+	margin-bottom: 20px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 20px;
+	border-color: rgb(84,189,255);
+	color: rgb(84,189,255);
+	padding: 20px;
+
+}
+.login{
+	font-size: 20px;
+	margin-left: 300px;
+}
+.italics{
+	font-style: italic;
+	font-weight: 10px;
+}
+#test{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	position: relative;
+    }
+#container{
+	display: inline-block;
+	vertical-align: top;
+	border: none;
+	width: 900px;
+	height: 900px;
+	margin-left: 20px;
+}
+#sidebar{
+	width: 200px;
+	height: 550px;
+	border: solid;
+	display:inline-block;
+	vertical-align: top;
+	padding: 20px;
+	margin-left: 10px;
+	border-color: rgb(84,189,255);
+	color: rgb(84,189,255);
+
+}
+.choosemap{
+	display:block;
+	margin: 20px;
+	background-color: orange;
+	color: white;
+	padding: 10px 20px 10px 20px;
+
+}
+.t{
+	display: inline-block;
+	
+}
+.ct{
+	display: inline-block;
+}
+#header{
+	background-color: black;
+	color: white;
+	padding: 20px;
+}
+.logout{
+	text-align: right;
+	vertical-align: top;
+}
+#first{
+	margin-left: 30px;
+	color: rgb(84,189,255);
+}
+#one{
+	display: inline-block;
+	color: orange;
+
+}
+.bold{
+	font-weight: bold;
+	font-size: 20px;
+}
